@@ -1,0 +1,42 @@
+_repo: The-Great-God-Pan_389
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Machen, Arthur
+    birthdate: 1863
+    deathdate: 1947
+    gutenberg_agent_id: '214'
+    url: http://www.gutenberg.org/2009/agents/214
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Machen
+description: "The Great God Pan is a novella written by Arthur Machen. A version of\
+  \ the story was published in the magazine The Whirlwind in 1890, and Machen revised\
+  \ and extended it for its book publication (together with another story, \"The Inmost\
+  \ Light\") in 1894. On publication it was widely denounced by the press as degenerate\
+  \ and horrific because of its decadent style and sexual content, although it has\
+  \ since garnered a reputation as a classic of horror.  Machen’s story was only one\
+  \ of many at the time to focus on the Greek God Pan as a useful symbol for the power\
+  \ of nature and paganism. The title was possibly inspired by the poem \"A Musical\
+  \ Instrument\" published in 1862 by Elizabeth Barrett Browning, in which the first\
+  \ line of every stanza ends \"... the great god Pan.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Horror
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '389'
+  wikidata: Q1394704
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Horror tales'
+- GITenberg
+title: The Great God Pan
+url: http://www.gutenberg.org/ebooks/389
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D0%B3_%D0%9F%D0%B0%D0%BD
+- https://fr.wikipedia.org/wiki/Le_Grand_Dieu_Pan
+- https://en.wikipedia.org/wiki/The_Great_God_Pan
+- https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%81%AE%E5%A4%A7%E7%A5%9E
