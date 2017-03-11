@@ -1,5 +1,8 @@
 _repo: The-Great-God-Pan_389
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Machen, Arthur
@@ -18,6 +21,8 @@ description: "The Great God Pan is a novella written by Arthur Machen. A version
   \ of nature and paganism. The title was possibly inspired by the poem \"A Musical\
   \ Instrument\" published in 1862 by Elizabeth Barrett Browning, in which the first\
   \ line of every stanza ends \"... the great god Pan.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/389#The-Great-God-Pan
 gutenberg_bookshelf: Horror
 gutenberg_issued: '1996-01-01'
 gutenberg_type: Text
